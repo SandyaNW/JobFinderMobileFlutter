@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "802876947368",
+    "project_id": "loker-tubes",
+    "storage_bucket": "loker-tubes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802876947368:android:50346f2e770f3e59737b9d",
+        "android_client_info": {
+          "package_name": "com.example.loker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802876947368-mo7l8j7p11hu26nk0v8kci84p93ip1al.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loker",
+            "certificate_hash": "a664e192addc3220cdaf001bc1ab3b1979b77096"
+          }
+        },
+        {
+          "client_id": "802876947368-rd19jf04lru00nlhap71jf4ehk0v13d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0fAt5CpyLl82mlK1rOs65u7yDo4iramw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802876947368-rd19jf04lru00nlhap71jf4ehk0v13d8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "802876947368-r8sbiuvqgdv1oa90r33nlcrfegarmukm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.loker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
